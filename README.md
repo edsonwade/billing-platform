@@ -1,7 +1,7 @@
 
 # 🧾 Billing platform — Enterprise (Java Spring Boot)
 
-**Enterprise-grade multi-tenant Billing SaaS ** built with **DDD**, Kafka, PostgreSQL, MongoDB, Redis, and Spring Boot.
+- **Enterprise-grade multi-tenant Billing SaaS** built with **DDD**, Kafka, PostgreSQL, MongoDB, Redis, and Spring Boot.
 Money-critical, scalable, and resilient. Nothing optional — all features included.
 
 
